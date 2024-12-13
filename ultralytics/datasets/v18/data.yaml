@@ -13,6 +13,6 @@ names:
   10: handle
   11: water bin
   12: power
-path: /home/ncbernar/Code/object_detection_sandbox/util/v18
+path: .
 train: images/train
 val: images/val
